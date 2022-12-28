@@ -11,8 +11,8 @@
 
 
 ```python
-Name = "Sayed FAizan"
-Class = "12th"
+Name = "Sayed Faizan"
+Class = "F.Y Engineer"
 Age = "18"
 Country = "🇮🇳"
 ```
